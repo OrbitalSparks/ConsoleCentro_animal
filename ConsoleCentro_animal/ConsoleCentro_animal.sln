@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCentro_animal", "ConsoleCentro_animal.csproj", "{C8E2499F-7F28-42A8-9413-961F8F6B2C90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centro_animal.entities", "..\Centro_animal.entities\Centro_animal.entities.csproj", "{45238F63-D986-47F5-8ED1-9710C9D447A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E2499F-7F28-42A8-9413-961F8F6B2C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E2499F-7F28-42A8-9413-961F8F6B2C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E2499F-7F28-42A8-9413-961F8F6B2C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E2499F-7F28-42A8-9413-961F8F6B2C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45238F63-D986-47F5-8ED1-9710C9D447A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45238F63-D986-47F5-8ED1-9710C9D447A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45238F63-D986-47F5-8ED1-9710C9D447A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45238F63-D986-47F5-8ED1-9710C9D447A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05F09E7-E3FA-4770-9CE9-E9F99E7B15CD}
+	EndGlobalSection
+EndGlobal

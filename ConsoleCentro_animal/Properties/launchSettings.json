@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ConsoleCentro_animal": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\brian\\source\\repos\\ConsoleCentro_animal\\Program.cs"
+    }
+  }
+}
